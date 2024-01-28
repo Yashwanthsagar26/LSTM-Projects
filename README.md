@@ -1,4 +1,4 @@
-# Stock-MArket-Forecasting
+# Stock-Market-Forecasting
 Stock prediction project using LSTM
 
 This project aims to predict stock prices using a Long Short-Term Memory (LSTM) neural network. LSTM networks are well-suited for time series forecasting tasks, as they can learn long-term dependencies in the data.
